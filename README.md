@@ -25,3 +25,5 @@
 12. grad-cam theory
 
 13. grad-cam implementation
+
+14. ResNet theory
